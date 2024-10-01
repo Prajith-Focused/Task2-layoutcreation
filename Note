@@ -1,0 +1,12 @@
+Hi Sanjay,
+
+1. Have created a Page layout that includes Header, footer, sidebar and main content.
+2. For HTML have tried to include semantic tags.
+3. For CSS have tried to incorporated some of CSS properties and selectors:
+    Background colors
+    Text alignment and typography
+    Padding and margin for spacing
+    Border and border-radius for visual appeal
+4. For the webpage have used the information about a dog as content.
+5. Have also learned and implemented a new CSS property: clear: both; 
+https://css-tricks.com/all-about-floats/#aa-what-are-floats-used-for
